@@ -39,5 +39,13 @@ The analysis followed these key steps:
 3.	Power BI Visualization: Created interactive dashboards to visualize the analysis and identify trends.
 4.	Excel Analysis: Utilized Excel for additional calculations and data validation before visualization in Power BI.
 
+##Project Insights
+#Key insights from the analysis: 
+1, Churn by Gender: Gender differences in churn rates suggest a targeted retention     approach may be necessary.
+2, Churn by Contract Type: Month-to-month contracts show a higher churn rate compared to long-term contracts. 
+3, Revenue Analysis: Payment methods like credit cards contribute significantly to total revenue, suggesting potential focus areas for marketing. 
+4, Tenure vs. Churn: Newer customers have higher churn rates, pointing to a need for early-stage retention strategies. 
+5, Senior Citizen Analysis: Senior citizens show higher churn, indicating possible improvements in service offerings. 
+6, Service Preferences: A significant number of customers use internet and streaming TV services, which could guide future product development.
 
 
