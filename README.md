@@ -48,6 +48,13 @@ The analysis followed these key steps:
 4, Tenure vs. Churn: Newer customers have higher churn rates, pointing to a need for early-stage retention strategies. 
 5, Senior Citizen Analysis: Senior citizens show higher churn, indicating possible improvements in service offerings. 
 6, Service Preferences: A significant number of customers use internet and streaming TV services, which could guide future product development.
+##Final Conclusion
 
+This project successfully identified key drivers of customer churn using SQL, Power BI, and Excel. By analyzing churn across various dimensions, businesses can develop more targeted strategies to reduce churn and increase retention. Visualizing these patterns using Power BI makes the insights accessible and actionable for business decision-makers.
+
+#Next Steps:
+1	Develop targeted retention strategies based on churn drivers.
+2	Improve customer experience for at-risk demographics such as senior citizens.
+3	Regularly monitor churn trends and test the effectiveness of retention strategies.
 
 
