@@ -41,10 +41,12 @@ The analysis followed these key steps:
 
 ##Project Insights
 
-1, Churn by Gender: Gender differences in churn rates suggest a targeted retention     approach may be necessary.
+1, Churn by Gender: Gender differences in churn rates suggest a targeted retention approach may be necessary.
+2, Churn by Contract Type: Month-to-month contracts show a higher churn rate compared to long-term contracts. 
 
 1, Churn by Gender: Gender differences in churn rates suggest a targeted retention     approach may be necessary.
 2, Churn by Contract Type: Month-to-month contracts show a higher churn rate compared to long-term contracts. 
+3, Revenue Analysis: Payment methods like credit cards contribute significantly to total revenue, suggesting potential focus areas for marketing. 
 
 
 
