@@ -43,5 +43,8 @@ The analysis followed these key steps:
 
 1, Churn by Gender: Gender differences in churn rates suggest a targeted retention     approach may be necessary.
 
+1, Churn by Gender: Gender differences in churn rates suggest a targeted retention     approach may be necessary.
+2, Churn by Contract Type: Month-to-month contracts show a higher churn rate compared to long-term contracts. 
+
 
 
