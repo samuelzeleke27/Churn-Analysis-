@@ -1,10 +1,15 @@
 #Churn Analysis & Visualization on Power BI
+
 ##Project Objectives 
+
 The goal of this project is to analyze customer churn using PostgreSQL, Power BI, and Excel. The project aims to identify key drivers of churn and visualize these insights to help businesses improve retention strategies
+
 ## Dataset
 
 The dataset used for this project is the [retention_data.csv](./retention_data.csv).
+
 ##Key Questions (KPIs)
+
 The project aims to answer the following business questions:
 •	Churn Rate by Gender: How does churn vary between male and female customers?
 •	Churn by Contract Type: What churn patterns exist across different contract types?
@@ -13,7 +18,7 @@ The project aims to answer the following business questions:
 •	Senior Citizen Impact: Do senior citizens have a higher churn rate?
 •	Service Usage: What is the distribution of internet and streaming service usage?
 
-##Dashboard
+
 ## Power BI Report
 
 The Power BI report for this project is available in the [Retention Analysis.pbix](./Retention%20Analysis.pbix) file.
@@ -27,6 +32,7 @@ The Power BI dashboard presents several visualizations:
 •	Service Usage: Stacked bar chart showing internet and streaming service usage.
 
 ##Process
+
 The analysis followed these key steps:
 1.	Data Preprocessing: Cleaned and transformed the dataset to handle missing values and adjust data types.
 2.	SQL Queries: Used PostgreSQL to write queries that aggregate data on churn rates, revenue, contract types, etc.
